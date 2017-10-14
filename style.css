@@ -1,0 +1,13 @@
+body { background: #CACFD2  ;
+           color: ;
+           font-size: 17pt; }
+       body { font-family: 'Oswald', sans-serif; }
+       h1 { font-size: 400%;
+         font-weight: bold ;font-style: }
+     <nav> <li> { display: inline-block }
+     h1 { border: 10px solid }
+a { color: hotpink;
+        text-decoration: underline; }
+a:hover { color: lightpink }
+
+img { text-align:center }
